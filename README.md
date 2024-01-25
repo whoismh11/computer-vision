@@ -1,2 +1,2 @@
-# computer-vision
-Computer Vision simple examples
+# Computer Vision
+Computer Vision - Simple examples.
